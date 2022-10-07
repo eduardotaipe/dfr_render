@@ -1,0 +1,10 @@
+[
+    {
+        "model": "pets.petmodel",
+        "pk": 1,
+        "fields": {
+            "name": "Brownie",
+            "age": 3
+        }
+    }
+]
